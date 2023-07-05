@@ -1,0 +1,7 @@
+
+State Machine - |DE2_115|movement
+Name movement.11 movement.10 movement.01 movement.00 
+movement.00 0 0 0 0 
+movement.01 0 0 1 1 
+movement.10 0 1 0 1 
+movement.11 1 0 0 1 
